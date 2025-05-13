@@ -2,16 +2,27 @@
 
 ## 📑 Índice
 
+- [Participantes do Projeto](#participantes-do-projeto)
 - [Proposta do Projeto](#proposta-do-projeto)
 - [Visão do Produto](#visão-do-produto)
   - [Dados Utilizados](#dados-utilizados)
   - [Funcionalidades Principais](#funcionalidades-principais)
 - [Personas](#personas)
 - [Jornada do Usuário](#jornada-do-usuário)
-- [Participantes do Projeto](#participantes-do-projeto)
 - [Referências Bibliográficas](#referências-bibliográficas)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
+- [Codigo Fonte do Projeto](#contribuições)
+
+
+---
+## 👨‍🔬 Participantes do Projeto
+
+- ALEXANDRE CONTE  
+- DIEGO PINHEIRO DE ANDRADE  
+- GABRIEL ALEXANDRE FONSECA MENDES  
+- GABRIEL MENGE DE AMANDO  
+- MATHEUS PAIVA DA SILVA  
+- RODRIGO SENA DA SILVA  
+- VALTER PAULINO ALVES PACHE  
 
 ---
 
@@ -104,17 +115,6 @@ Para maior precisão nas estimativas, serão considerados dados médios de forne
 
 ---
 
-## 👨‍🔬 Participantes do Projeto
-
-- ALEXANDRE CONTE  
-- DIEGO PINHEIRO DE ANDRADE  
-- GABRIEL ALEXANDRE FONSECA MENDES  
-- GABRIEL MENGE DE AMANDO  
-- MATHEUS PAIVA DA SILVA  
-- RODRIGO SENA DA SILVA  
-- VALTER PAULINO ALVES PACHE  
-
----
 
 ## 📚 Referências Bibliográficas
 
