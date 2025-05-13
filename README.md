@@ -1,6 +1,21 @@
 # ☀️ Calculadora de Investimento Solar
 
-## 🌍 Proposta do Projeto
+## 📑 Índice
+
+- [Proposta do Projeto](#proposta-do-projeto)
+- [Visão do Produto](#visão-do-produto)
+  - [Dados Utilizados](#dados-utilizados)
+  - [Funcionalidades Principais](#funcionalidades-principais)
+- [Personas](#personas)
+- [Jornada do Usuário](#jornada-do-usuário)
+- [Participantes do Projeto](#participantes-do-projeto)
+- [Referências Bibliográficas](#referências-bibliográficas)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
+
+---
+
+## 📘 Proposta do Projeto
 
 De acordo com Kemerich et al. (2016), o crescimento populacional e o aumento no consumo de combustíveis fósseis têm exigido a adoção de sistemas de produção de energia mais limpos e sustentáveis. Essa necessidade impulsionou o interesse por sistemas de geração solar fotovoltaica, entretanto, muitas pessoas ainda enfrentam dificuldades para estimar os custos e o tempo de retorno sobre o investimento.
 
@@ -16,11 +31,12 @@ A ferramenta ajudará consumidores residenciais e empresariais a tomar decisões
 
 ---
 
-## 💡 Visão do Produto
+## 🌟 Visão do Produto
 
 A **Calculadora de Investimento Solar** será uma plataforma **intuitiva, acessível e multiplataforma**, permitindo simulações rápidas do custo de instalação de sistemas fotovoltaicos com base no consumo mensal do usuário.
 
-### 🔧 Dados Utilizados
+### 📊 Dados Utilizados
+
 Para maior precisão nas estimativas, serão considerados dados médios de fornecedores reconhecidos:
 
 **Inversores**:
@@ -33,7 +49,7 @@ Para maior precisão nas estimativas, serão considerados dados médios de forne
 - DAH Solar
 - TrinaSolar
 
-### 🛠️ Funcionalidades Principais
+### ⚙️ Funcionalidades Principais
 
 - Inserção do consumo médio mensal em kWh
 - Escolha entre sistema **monofásico** ou **trifásico**
@@ -88,21 +104,30 @@ Para maior precisão nas estimativas, serão considerados dados médios de forne
 
 ---
 
+## 👨‍🔬 Participantes do Projeto
+
+- ALEXANDRE CONTE  
+- DIEGO PINHEIRO DE ANDRADE  
+- GABRIEL ALEXANDRE FONSECA MENDES  
+- GABRIEL MENGE DE AMANDO  
+- MATHEUS PAIVA DA SILVA  
+- RODRIGO SENA DA SILVA  
+- VALTER PAULINO ALVES PACHE  
+
+---
+
 ## 📚 Referências Bibliográficas
 
-KEMERICH, P. D. da C. et al. Paradigmas da energia solar no Brasil e no mundo. *Revista Eletrônica em Gestão, Educação e Tecnologia Ambiental*, Santa Maria, v. 20, n. 1, p. 241-247, jan.-abr. 2016.  
+KEMERICH, P. D. da C. et al. Paradigmas da energia solar no Brasil e no mundo.  
+*Revista Eletrônica em Gestão, Educação e Tecnologia Ambiental*, Santa Maria, v. 20, n. 1, p. 241-247, jan.-abr. 2016.  
 Disponível em: [https://periodicos.ufsm.br/reget/article/view/2016](https://periodicos.ufsm.br/reget/article/view/2016)  
 Acesso em: 16 mar. 2025.
 
 ---
 
-## 🚀 Contribuições
+## 🚀 Codigo Fonte do Projeto
 
-Contribuições são bem-vindas! Fique à vontade para abrir *issues* ou enviar *pull requests* para melhorias no projeto.
+
 
 ---
-
-## 🛡️ Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
