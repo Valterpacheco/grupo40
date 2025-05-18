@@ -16,7 +16,7 @@
 ---
 ## 👨‍🔬 Participantes do Projeto
 
-- ALEXANDRE CONTE  
+- ALEXANDRE CONTE
 - DIEGO PINHEIRO DE ANDRADE  
 - GABRIEL ALEXANDRE FONSECA MENDES  
 - GABRIEL MENGE DE AMANDO  
@@ -127,7 +127,7 @@ Acesso em: 16 mar. 2025.
 
 ## 🚀 Codigo Fonte do Projeto
 
-
+É possível encontrar o código fonte do projeto no arquivo index.html deste repositório. 
 
 ---
 
