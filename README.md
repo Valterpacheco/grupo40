@@ -9,9 +9,9 @@
   - [Funcionalidades Principais](#funcionalidades-principais)
 - [Personas](#personas)
 - [Jornada do Usuário](#jornada-do-usuário)
-- [Referências Bibliográficas](#referências-bibliográficas)
 - [Codigo Fonte do Projeto](#contribuições)
 - [Demonstração de uso](#demo)
+- [Referências Bibliográficas](#referências-bibliográficas)
 
 
 ---
@@ -117,21 +117,24 @@ Para maior precisão nas estimativas, serão considerados dados médios de forne
 ---
 
 
+## 🚀 Codigo Fonte do Projeto
+
+É possível encontrar o código fonte do projeto no arquivo index.html deste repositório. 
+
+---
+
+## 🚀 Demonstração de uso
+
+[![Assista no YouTube](https://img.youtube.com/vi/JR-WI7Igzgc/0.jpg)](https://www.youtube.com/watch?v=JR-WI7Igzgc)
+
+---
+
 ## 📚 Referências Bibliográficas
 
 KEMERICH, P. D. da C. et al. Paradigmas da energia solar no Brasil e no mundo.  
 *Revista Eletrônica em Gestão, Educação e Tecnologia Ambiental*, Santa Maria, v. 20, n. 1, p. 241-247, jan.-abr. 2016.  
 Disponível em: [https://periodicos.ufsm.br/reget/article/view/2016](https://periodicos.ufsm.br/reget/article/view/2016)  
 Acesso em: 16 mar. 2025.
-
----
-
-## 🚀 Codigo Fonte do Projeto
-
-É possível encontrar o código fonte do projeto no arquivo index.html deste repositório. 
-
-## 🚀 Demonstração de uso
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JR-WI7Igzgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
